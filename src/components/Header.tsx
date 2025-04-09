@@ -23,7 +23,7 @@ const Header = () => {
         <div className="flex justify-between items-center h-20">
           <div className="flex-shrink-0">
             <Link href="/" className="text-2xl font-bold text-gray-900">
-              StarRoute
+              StarJourney
             </Link>
           </div>
           

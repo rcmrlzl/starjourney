@@ -136,8 +136,8 @@ const Contact = () => {
                   </svg>
                   <div>
                     <p className="font-medium text-gray-900">Email</p>
-                    <a href="mailto:contact@starroute.com" className="text-gray-600 hover:text-primary-500 transition-colors">
-                      contact@starroute.com
+                    <a href="mailto:contact@StarJourney.com" className="text-gray-600 hover:text-primary-500 transition-colors">
+                      contact@StarJourney.com
                     </a>
                   </div>
                 </div>
