@@ -5,8 +5,10 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "StarRoute - Innovative Digital Solutions",
-  description: "Explore the digital universe with StarRoute's innovative solutions for modern businesses.",
+  title: "StarJourney
+ - Innovative Digital Solutions",
+  description: "Explore the digital universe with StarJourney
+'s innovative solutions for modern businesses.",
 };
 
 export default function RootLayout({
