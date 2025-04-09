@@ -53,8 +53,7 @@ const Features = () => {
             transition={{ duration: 0.6 }}
             className="text-3xl font-bold text-gray-900 sm:text-4xl"
           >
-            Why Choose StarJourney
-
+            Why Choose StarRoute
           </motion.h2>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
